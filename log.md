@@ -106,6 +106,7 @@ _later in the evening, after midnight, so now January 13th_:  I've been working 
 
 _A little bit later on the 13th_:  This is really cool how this system works!  AS a Collaborator on a project, however, there could be the chace to really mess up the program.  _TRUST is going to be vitally important among Collaborators._    This may be the lesson for yesterday and today's work in GitHub.
 
+_And even a little later still_:  I joined GitHub in 2014.  3 years to the date I really begin using this amazing set of tools.  _Why did I ever delay!????!!_  So glad to be here.
 
 Other Activity:  
 
