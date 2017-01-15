@@ -119,13 +119,15 @@ Other Activity:
 
 
 
-### Day :
+### Day 7:  January 15, 2017
 
 **Today's Progress as Published on Medium.com **: 
 
-**Thoughts:** 
+**Thoughts:** Today was the date for the local freeCodeCamp meetup, and we had a good time!  The continued problem we have at the meetup venues is the lack of inconsistent wi-fi service.  We have chosen our current venue (a new Starbucks) especially because they offer three different networks for customers; however, today, all three networks had insufficient wifi.  I'll be contacting the IT personnel to inquire as to whether we had some errors in our usage process or whether the problem was an anomaly.  It is difficult to keep up one's spirit when the wifi is down and one is counting on said wifi to complete lessons and work in freeCodeCamp.org and github.com (respectively).  We press on nevertheless!
 
-**Link to work:** 
+As for my activity, it focused primarily in three areas:  (1) GitHub--I shared my budding GitHub knowledge with a colleague from freeCodeCamp.com  We practiced changing files, committing, commenting, closing and merging pullRequests, et c.  (2) Google Hangouts:  We practiced working on a repo as if we were consulting via Google Hangouts.  
+
+**Link to work:** Here is my GitHub Profile link:  https://github.com/gretchenmanco
 
 
 
