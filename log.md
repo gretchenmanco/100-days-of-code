@@ -130,12 +130,29 @@ As for my activity, it focused primarily in three areas:  (1) GitHub--I shared m
 **Link to work:** Here is my GitHub Profile link:  https://github.com/gretchenmanco
 
 
+### Day 8:  February 22, 2017
 
-### Day :
+**Today's Progress as Published on Medium.com **:  Today's log will not be published on Medium as this is a catch-up entry.
 
-**Today's Progress as Published on Medium.com **: 
+**Thoughts** I began classes a few days after day 7 (above), and all non-course-related coding essentially ground to a halt.
+I had great hopes that this cessation would not occur, nevertheless, it did.  I really want to get through the freeCodeCamp certification, and since my last entry I have decided NOT to take any university courses this Summer in order to focus on my coding with freeCodeCamp.  In particular, my goal is to complete the Full Stack Certification.
 
-**Thoughts:** 
+I have been coding since Day 7, but I did not log that coding experience in here as I had planned to use this log only for FCC-related coding.  Since very little coding with JavaScript is occuring, then I have decided to record whatever type of programming I happen to be doing, whether for FCC or for my Engineering classes.  
+
+My current programming efforts are primarily focused on learning Assembly Language, and I'm programming one of MicroChip's PIC's (8-bit).  I have not programmed with AL enough to decide whether or not I "like" programming with AL, but I still find it interesting.  Another benefit to taking this course in MicroProcessors is that I am revisiting basics in number systems, digital logic gates, registers, counters, and how to encode/decode.  This second aspect, i.e., the review of this computer information, has been surprisingly very interesting to me.  I do not recall being so interested in these details the first time I was exposed to them.  
+
+One more thing I am doing is setting a once-a-week time to informally meetup with anyone from my local freeCodeCamp group.  The goal of this group is to have fun while holding ourselves ever so slightly more accountable to our coding goals for 2017.  These meetups are one of my favorite events every week.
+
+Key lesson for today (and everyday):  "Never, never, never give up." quote from PM Winston Churchill.  
+
+Thankful for...the many people I have met who are so encouraging to me.  I cannot repay them, but I can by grace pay forward their support and encouragement by being an equally supportive and encouraging person to others.
+
+Enough for this catch-up log.  
+
+OTHER:  Thinking I might re-arrange this log so that the most recent entry is always on top.
+
+
+
 
 **Link to work:** 
 
